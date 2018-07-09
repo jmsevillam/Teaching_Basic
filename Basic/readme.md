@@ -1,3 +1,5 @@
 # How to run
 
-```g++ FileName.cpp```
+```g++ FileName.cpp
+./a.out
+```
